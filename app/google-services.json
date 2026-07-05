@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966674118749",
+    "project_id": "connectx-40ead",
+    "storage_bucket": "connectx-40ead.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966674118749:android:afff8734097ab4d3ccb5b4",
+        "android_client_info": {
+          "package_name": "com.farshath.connectx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7zIP79ZIqVzH3sriO3U_apLsHoReXnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
